@@ -1,2 +1,2 @@
-# TEMPLATE plugin
-This is a template plugin description
+# Empty kernel plugin
+Empty kernel plugin to unify shared logic between plugin groups
