@@ -3,7 +3,7 @@ using SAL.Flatbed;
 
 namespace Kernel.Empty
 {
-	public class PluginWindows : IPluginKernel
+	public class Plugin : IPluginKernel
 	{
 		Boolean IPlugin.OnConnection(ConnectMode mode)
 			=> true;
